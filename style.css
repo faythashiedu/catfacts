@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    height: 100vh;
+}
+#fact{
+    height: 80%;
+}
+#text{
+    height: 50%;
+    width: auto;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+#author{
+    height: 20%;
+    color: rgb(8, 8, 143);
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+#generate{
+    padding: 20px 95vh;
+    border: none;
+    outline: none;
+    background-color: deepskyblue;
+    color: white;
+    border-radius: 15px;
+    font-size: large;
+    font-weight: bold;
+}
